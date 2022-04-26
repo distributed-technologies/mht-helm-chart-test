@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   resource-helper:
   - apiVersion: v2
-    created: "2022-04-26T12:24:07.8330837+02:00"
+    created: "2022-04-26T12:26:03.8683878+02:00"
+    description: A Helm chart for deploying different resources
+    digest: b393ebcd4dd468a72a5162bfead5d8a91aa4e4f467016bccb306d49ed6e4729a
+    name: resource-helper
+    type: application
+    urls:
+    - resource-helper-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    created: "2022-04-26T12:26:03.8687312+02:00"
     description: A Helm chart for deploying different resources
     digest: a6ef0b62f27573e21736ef45afda836301f2cd3cc45840fe1b7070e014ca6d57
     name: resource-helper
@@ -10,4 +19,4 @@ entries:
     urls:
     - resource-helper-0.1.1.tgz
     version: 0.1.0
-generated: "2022-04-26T12:24:07.8322371+02:00"
+generated: "2022-04-26T12:26:03.8679095+02:00"
